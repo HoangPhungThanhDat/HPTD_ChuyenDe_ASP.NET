@@ -1,3 +1,6 @@
+using _2122110333_HoangPhungThanhDat_ASP.NET.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -22,4 +25,8 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+
 app.Run();
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));

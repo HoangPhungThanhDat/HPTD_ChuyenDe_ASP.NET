@@ -1,0 +1,6 @@
+@_2122110333_HoangPhungThanhDat_ASP.NET_HostAddress = http://localhost:5127
+
+GET {{_2122110333_HoangPhungThanhDat_ASP.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

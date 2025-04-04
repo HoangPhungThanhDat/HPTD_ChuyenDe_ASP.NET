@@ -170,4 +170,3 @@ H:\LẬP TRÌNH ASP.NET\2122110333_HoangPhungThanhDat_ASP.NET1\2122110333_HoangP
 H:\LẬP TRÌNH ASP.NET\2122110333_HoangPhungThanhDat_ASP.NET1\2122110333_HoangPhungThanhDat_ASP.NET\2122110333_HoangPhungThanhDat_ASP.NET\obj\Debug\net8.0\2122110333_HoangPhungThanhDat_ASP.NET.genruntimeconfig.cache
 H:\LẬP TRÌNH ASP.NET\2122110333_HoangPhungThanhDat_ASP.NET1\2122110333_HoangPhungThanhDat_ASP.NET\2122110333_HoangPhungThanhDat_ASP.NET\obj\Debug\net8.0\ref\2122110333_HoangPhungThanhDat_ASP.NET.dll
 H:\LẬP TRÌNH ASP.NET\2122110333_HoangPhungThanhDat_ASP.NET1\2122110333_HoangPhungThanhDat_ASP.NET\2122110333_HoangPhungThanhDat_ASP.NET\obj\Debug\net8.0\2122110333_HoangPhungThanhDat_ASP.NET.sourcelink.json
-H:\LẬP TRÌNH ASP.NET\2122110333_HoangPhungThanhDat_ASP.NET1\2122110333_HoangPhungThanhDat_ASP.NET\2122110333_HoangPhungThanhDat_ASP.NET\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

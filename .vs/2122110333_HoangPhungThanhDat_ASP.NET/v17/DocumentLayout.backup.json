@@ -3,83 +3,27 @@
   "WorkspaceRootPath": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404100416_FixUserNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404100416_FixUserNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404095551_FixUserNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404095551_FixUserNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|solutionrelative:2122110333_hoangphungthanhdat_asp.net\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A36B474B-066A-4880-8F5E-3FEC71703402}|2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj|h:\\l\u1EADp tr\u00ECnh asp.net\\2122110333_hoangphungthanhdat_asp.net1\\2122110333_hoangphungthanhdat_asp.net\\2122110333_hoangphungthanhdat_asp.net\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,244 +41,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250404100416_FixUserNullable.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404100416_FixUserNullable.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404100416_FixUserNullable.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404100416_FixUserNullable.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404100416_FixUserNullable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T10:04:16.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250404095551_FixUserNullable.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404095551_FixUserNullable.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404095551_FixUserNullable.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404095551_FixUserNullable.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Migrations\\20250404095551_FixUserNullable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T09:55:51.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Controllers\\UserController.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Controllers\\UserController.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Controllers\\UserController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:17:47Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\User.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\User.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\User.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\User.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T02:18:30.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserAddress.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\UserAddress.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\UserAddress.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\UserAddress.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\UserAddress.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:12:13.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\UserRole.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\UserRole.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\UserRole.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:08:31.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContext.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T02:17:30.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Address.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Address.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Address.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Address.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Address.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:11:28.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Contact.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Contact.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Contact.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Contact.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:10:52.221Z"
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAN4UAAAAAAAAAAAcwPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-28T14:38:13.275Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Role.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Role.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Role.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Role.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Role.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:07:56.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\appsettings.json",
               "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\appsettings.json",
               "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\appsettings.json",
               "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\appsettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-28T02:19:05.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Program.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Program.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Program.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T02:18:59.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Category.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Category.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Category.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Category.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:06:30.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Brand.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Brand.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Brand.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Brand.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:07:06.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Product.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Product.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Product.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Product.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwB4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T02:18:18.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\OrderDetail.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\OrderDetail.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\OrderDetail.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:10:12.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Order.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Order.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Order.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Order.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Order.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAzwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:09:35.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T00:37:54.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDbContextFactory.cs",
-              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContextFactory.cs",
-              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContextFactory.cs",
-              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContextFactory.cs",
-              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContextFactory.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:08:15.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 6,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\WeatherForecast.cs",
@@ -346,17 +79,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAN4UAAAAAAAAAAAcwPMUAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-28T14:38:13.275Z"
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Program.cs",
+              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Program.cs",
+              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Program.cs*",
+              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:18:59.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\User.cs",
+              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\User.cs",
+              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\User.cs",
+              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:18:30.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Product.cs",
+              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Product.cs",
+              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:18:18.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContext.cs",
+              "ToolTip": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "2122110333_HoangPhungThanhDat_ASP.NET\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:17:30.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "2122110333_HoangPhungThanhDat_ASP.NET.csproj",
               "DocumentMoniker": "H:\\L\u1EACP TR\u00CCNH ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET1\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj",
               "RelativeDocumentMoniker": "2122110333_HoangPhungThanhDat_ASP.NET\\2122110333_HoangPhungThanhDat_ASP.NET.csproj",

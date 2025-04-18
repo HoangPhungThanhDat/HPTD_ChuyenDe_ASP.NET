@@ -31,3 +31,34 @@ namespace _2122110333_HoangPhungThanhDat_ASP.NET.Model
         public virtual ICollection<UserAddress> UserAddresses { get; set; } = new List<UserAddress>();
     }
 }
+
+
+
+
+//using Microsoft.AspNetCore.Identity;
+//using System.Text.Json.Serialization;
+
+//namespace _2122110333_HoangPhungThanhDat_ASP.NET.Model
+//{
+//    public class User : IdentityUser
+//    {
+//        public string FirstName { get; set; }
+//        public string LastName { get; set; }
+//        public bool Status { get; set; } = true;
+
+//        public DateTime CreatedAt { get; set; } = DateTime.Now;
+//        public string CreatedBy { get; set; }
+
+//        public DateTime? UpdatedAt { get; set; }
+//        public string? UpdatedBy { get; set; }
+
+//        public DateTime? DeletedAt { get; set; }
+//        public string? DeletedBy { get; set; }
+
+//        [JsonIgnore]
+//        public virtual ICollection<UserRole> UserRoles { get; set; } = new List<UserRole>();
+
+//        [JsonIgnore]
+//        public virtual ICollection<UserAddress> UserAddresses { get; set; } = new List<UserAddress>();
+//    }
+//}

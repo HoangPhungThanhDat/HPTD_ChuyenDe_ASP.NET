@@ -1,4 +1,6 @@
-﻿namespace _2122110333_HoangPhungThanhDat_ASP.NET.Model
+﻿using System.Text.Json.Serialization;
+
+namespace _2122110333_HoangPhungThanhDat_ASP.NET.Model
 {
     public class UserRole
     {
@@ -14,8 +16,9 @@
 
         public DateTime? DeletedAt { get; set; }
         public string? DeletedBy { get; set; }
-
+      
         public virtual User User { get; set; }
+       
         public virtual Role Role { get; set; }
     }
 }

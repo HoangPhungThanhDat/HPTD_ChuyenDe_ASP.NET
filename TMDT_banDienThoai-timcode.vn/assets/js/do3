@@ -1,0 +1,15 @@
+var radioButtons1 = document.getElementsByName("payment_type");
+var optionContents1 = document.getElementsByClassName("option-content");
+
+for (var i = 0; i < radioButtons1.length; i++) {
+  radioButtons1[i].addEventListener("click", function() {
+    for (var j = 0; j < optionContents1.length; j++) {
+      optionContents1[j].classList.remove("active");
+    }
+    var contentId1 = this.value + "-content";
+    var content1= document.getElementById(contentId1);
+    content1.classList.add("active");
+  });
+}
+
+document.getElementsByClassName("option-content")[0].classList.add("active");
